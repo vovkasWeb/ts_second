@@ -16,6 +16,7 @@ const user = {
 
 
 
+
 console.log(getFullName(user));
 
 let info:{
